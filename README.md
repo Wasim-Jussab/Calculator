@@ -53,10 +53,6 @@ Note: Make sure to provide a space between the numbers and the operator.
 
 If you'd like to contribute to this project or report any issues, please feel free to open a pull request or submit an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 Created by [Wasim Jussab](https://github.com/wasim-jussab)
 ```
